@@ -1,4 +1,4 @@
-This repo contains the implementation for DoRAX: a backdoor attack for robotics arm manipulation systems.
+This repo contains the implementation for Invisible-ARM: a backdoor attack for robotics arm manipulation systems.
 
 ## Install
 ```bash
@@ -12,7 +12,7 @@ pip install -r requirements.txt
 ```
 
 ## Quick Start
-We provide the *softhandling* task as an example in [data](./data/train/Original/). To make DoRAX easier to follow, we present it through a visual workflow as below using the *softhandling* task. 
+We provide the *softhandling* task as an example in [data](./data/train/Original/). To make Invisible-ARM easier to follow, we present it through a visual workflow as below using the *softhandling* task. 
 1. First of all, copy over the original task to the poisoned data folder using this command.
 
 ```bash
