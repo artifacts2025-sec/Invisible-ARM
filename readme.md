@@ -3,7 +3,7 @@ This repo contains the implementation for Invisible-ARM: a backdoor attack for r
 ## Install
 ```bash
 git clone https://github.com/artifacts2025-sec/Invisible-ARM.git
-cd DoRAX
+cd Invisible-ARM
 
 conda create -n ia python=3.11.8
 conda activate ia
